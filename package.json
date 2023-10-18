@@ -1,0 +1,19 @@
+{
+  "name": "jsccxt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Warren Seah",
+  "license": "ISC",
+  "dependencies": {
+    "ccxt": "^1.18.471",
+    "coingecko-api": "^1.0.5",
+    "mysql2": "^1.6.5",
+    "node-cron": "^2.0.3",
+    "winston": "^3.2.1",
+    "winston-daily-rotate-file": "^3.7.0"
+  }
+}
